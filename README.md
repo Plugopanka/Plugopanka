@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Maria!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Junior frontend developer</h2>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World!)](https://git.io/typing-svg" />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World!" />
 <h3 align="center">Key skills</h3>
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
