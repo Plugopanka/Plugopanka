@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Maria!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>Junior frontend developer</h2>
+<h2 align="center">Junior frontend developer</h2>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World!" />
 <h3 align="center">Key skills</h3>
 <p>
