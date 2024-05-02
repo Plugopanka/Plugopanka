@@ -12,3 +12,5 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
 </p>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Plugopanka&hide=stars&show_icons=true&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
