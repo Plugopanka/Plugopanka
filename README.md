@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Frontend developer</h2>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World!" />
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 <p>I'm a 24-year-old developer based in Moscow, currently in active process of studying TypeScript and Redux Toolkit. Feel free to get acquainted with my projects!</p>
 
@@ -24,6 +23,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
 </p>
 
-<img align="center" src="https://github-readme-stats-mariias-projects-0766a561.vercel.app/api?username=Plugopanka&hide=issues,contribs&theme=one_dark_pro">
-
+<div> align="center">
+<img src="https://github-readme-stats-mariias-projects-0766a561.vercel.app/api?username=Plugopanka&hide=issues,contribs&theme=one_dark_pro">
+</div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Plugopanka&theme=one_dark_pro)](https://git.io/streak-stats)
