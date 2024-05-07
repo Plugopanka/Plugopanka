@@ -2,13 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Frontend developer</h2>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+World!" />
-[![](https://komarev.com/ghpvc/?username=Plugopanka)]
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Plugopanka)
+
 <p>I'm a 24-year-old developer based in Moscow, currently in active process of studying TypeScript and Redux Toolkit. Feel free to get acquainted with my projects!</p>
 
 <h3>Key skills</h3>
 <p>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SCSS">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
