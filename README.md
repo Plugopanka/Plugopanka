@@ -25,5 +25,6 @@
 
 <div> align="center">
 <img src="https://github-readme-stats-mariias-projects-0766a561.vercel.app/api?username=Plugopanka&hide=issues,contribs&theme=one_dark_pro">
+
+<img src="https://streak-stats.demolab.com/?user=Plugopanka&theme=one_dark_pro">
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Plugopanka&theme=one_dark_pro)](https://git.io/streak-stats)
