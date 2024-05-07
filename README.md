@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
 </p>
 
-<div> align="center">
+<div align="center">
 <img src="https://github-readme-stats-mariias-projects-0766a561.vercel.app/api?username=Plugopanka&hide=issues,contribs&theme=one_dark_pro">
 
 <img src="https://streak-stats.demolab.com/?user=Plugopanka&theme=one_dark_pro">
